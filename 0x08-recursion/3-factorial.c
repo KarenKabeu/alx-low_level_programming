@@ -14,10 +14,10 @@ int factorial(int n)
 	}
 	return (n * factorial(n - 1));
 			}
-int main(void)
+/*int main(void)
 {
 int f;
 f = factorial(31);
 printf("5! = %d\n", f);
 return (0);
-}
+}*/
