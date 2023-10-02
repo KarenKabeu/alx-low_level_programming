@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * _puts_recursion - acts like puts();
  * @s: string
  *
